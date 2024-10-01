@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Personal_Budget_Manager/static/css/main.d221dc40.css",
+    "main.js": "/Personal_Budget_Manager/static/js/main.d1f339a3.js",
+    "index.html": "/Personal_Budget_Manager/index.html",
+    "main.d221dc40.css.map": "/Personal_Budget_Manager/static/css/main.d221dc40.css.map",
+    "main.d1f339a3.js.map": "/Personal_Budget_Manager/static/js/main.d1f339a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.d1f339a3.js"
+  ]
+}
